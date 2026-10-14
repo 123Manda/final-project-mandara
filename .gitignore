@@ -1,0 +1,25 @@
+
+# Dataset
+/dataset/
+/advanced_ml/
+/backend/
+/demand-backend/
+/quantity-backend/
+/advanced_ml.zip/
+
+# ZIP Files
+*.zip
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Environment Variables
+.env
+.env.*
+
+# Node.js
+node_modules/
+dist/
